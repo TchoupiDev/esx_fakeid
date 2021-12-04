@@ -1,3 +1,4 @@
+--Dev par Tchoupi si besoins d'aide: https://discord.gg/udX6fQdYW4
 Config					= {}
 Config.Slice			= 1000
 Config.Percentage		= 50
