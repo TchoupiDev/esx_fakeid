@@ -65,7 +65,7 @@ function RMenu:Delete(Type, Name)
     self[Type][Name] = nil
 end
 
-print("discord.gg/fivedev")
+print("https://discord.gg/fExvvxArG3")
 
 ---DeleteType
 ---@param Type string
